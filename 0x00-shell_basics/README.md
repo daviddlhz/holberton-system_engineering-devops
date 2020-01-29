@@ -1,0 +1,1 @@
+0. pwd - _This command return the path name of the working directory_
