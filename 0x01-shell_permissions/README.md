@@ -1,0 +1,1 @@
+_This folder contains commands of permissions in shell_
