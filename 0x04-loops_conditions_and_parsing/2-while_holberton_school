@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# This script is displaying "Holberton School" 10 times
+i=0
+while [ $i -lt 10 ]; do # -lt stands for less than
+    echo "Holberton School"
+        let i+=1;
+done
