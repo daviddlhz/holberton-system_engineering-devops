@@ -1,4 +1,4 @@
-# Project Binary trees Web infrastructure design :computer: 
+# Project Web infrastructure design :computer: 
 
 ### Network basics
 
