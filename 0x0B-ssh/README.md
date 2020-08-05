@@ -61,4 +61,4 @@ Note: Your server is configured with an Ubuntu 16.04 LTS environment. You do not
 ~~~
 
 ## Author :book:
-Roberto Palacios [Twitter](https://twitter.com/daviddlhz) | [GitHub](https://github.com/daviddlhz)
+David De La Hoz [Twitter](https://twitter.com/daviddlhz) | [GitHub](https://github.com/daviddlhz)
